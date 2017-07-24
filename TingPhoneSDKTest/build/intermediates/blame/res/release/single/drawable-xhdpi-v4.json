@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\widget_pause_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\widget_pause_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_play_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_play_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_dark_pause_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_dark_pause_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ting.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\ting.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_light_play2_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_light_play2_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\next_icon_transparent_disable.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\next_icon_transparent_disable.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\next_icon_transparent_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\next_icon_transparent_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_icon.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notification_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\next_icon_transparent_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\next_icon_transparent_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_dark_pause2_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_dark_pause2_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_close.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_close.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_play_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_play_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_dark_prev_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_dark_prev_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_pause2_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_pause2_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\pre_icon_transparent_disable.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\pre_icon_transparent_disable.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\widget_pause_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\widget_pause_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\widget_play_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\widget_play_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_next_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_next_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_light_prev_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_light_prev_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\pre_icon_transparent_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\pre_icon_transparent_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_dark_next_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_dark_next_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_dark_play2_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_dark_play2_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_dark_play_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_dark_play_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_light_pause2_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_light_pause2_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_default.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notification_default.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_light_next_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_light_next_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_light_pause_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_light_pause_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_light_play_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_light_play_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_play2_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_play2_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\widget_play_normal.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\widget_play_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\pre_icon_transparent_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\pre_icon_transparent_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_btn_prev_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-xhdpi\\notify_btn_prev_pressed.png"
+    }
+]

@@ -1,0 +1,25 @@
+#Mon Jul 24 14:03:26 CST 2017
+renamed.7=classes.dex
+renamed.6=classes4.dex
+renamed.5=classes7.dex
+renamed.4=classes6.dex
+renamed.3=classes3.dex
+renamed.2=classes8.dex
+renamed.1=classes2.dex
+renamed.0=classes5.dex
+base.7=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\android-support-v4_db9f925f2bde60aa5cc64530eba7ba0848b37988
+base.6=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\okio-1.8.0_8c3f7623358ce3c6fc2aba271a4ce9d6f3b67aba
+base.5=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\XmlyOAuth2SDK_V1.0.7_1ea2c7f6c9869e120602f95a9b1f3088f741c973
+base.4=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\XmDownload_1.5_05a12168e5c02a89d05b9167061e6545aab26d62
+base.3=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\okhttp-3.3.1_d5d668164766207d561b3a12dd9d571f9ba3581c
+base.2=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\xutil3.3.6_25b2affff492e85cc0f46cf97934dca8e1a698de
+base.1=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\gson-2.8.0_029f8cd54b8676a0b03db3564a224a99ee0fd85c
+base.0=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\TingPhoneOpenSDK_5.4.2_21179b6985f8f416ade147e15cdea298999e110c
+file.7=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\android-support-v4_db9f925f2bde60aa5cc64530eba7ba0848b37988\\classes.dex
+file.6=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\okio-1.8.0_8c3f7623358ce3c6fc2aba271a4ce9d6f3b67aba\\classes.dex
+file.5=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\XmlyOAuth2SDK_V1.0.7_1ea2c7f6c9869e120602f95a9b1f3088f741c973\\classes.dex
+file.4=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\XmDownload_1.5_05a12168e5c02a89d05b9167061e6545aab26d62\\classes.dex
+file.3=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\okhttp-3.3.1_d5d668164766207d561b3a12dd9d571f9ba3581c\\classes.dex
+file.2=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\xutil3.3.6_25b2affff492e85cc0f46cf97934dca8e1a698de\\classes.dex
+file.1=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\gson-2.8.0_029f8cd54b8676a0b03db3564a224a99ee0fd85c\\classes.dex
+file.0=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\2\\TingPhoneOpenSDK_5.4.2_21179b6985f8f416ade147e15cdea298999e110c\\classes.dex

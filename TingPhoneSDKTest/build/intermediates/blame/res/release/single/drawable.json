@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_light_next_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_light_next_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_light_play_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_light_play_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_play_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_play_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\widget_play_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\widget_play_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_dark_pause2_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_dark_pause2_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_dark_play2_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_dark_play2_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_dark_pause_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_dark_pause_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\pre_play_selector_transparent.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\pre_play_selector_transparent.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_light_pause2_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_light_pause2_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_dark_prev_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_dark_prev_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\next_play_selector_transparent.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\next_play_selector_transparent.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_light_prev_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_light_prev_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_dark_next_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_dark_next_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_dark_play_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_dark_play_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_light_play2_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_light_play2_normal_xml.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable\\notify_btn_light_pause_normal_xml.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable\\notify_btn_light_pause_normal_xml.xml"
+    }
+]

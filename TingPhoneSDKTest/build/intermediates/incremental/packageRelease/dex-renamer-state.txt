@@ -1,0 +1,7 @@
+#Mon Jul 24 14:03:28 CST 2017
+base.0=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\10000\\instant-run_a626ec935f921a843bac5da3f95528a160e7cdbe
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\10000\\instant-run-bootstrap_f6100836af1d479709f45defd9287ea0e9112f0d\\classes.dex
+base.1=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\10000\\instant-run-bootstrap_f6100836af1d479709f45defd9287ea0e9112f0d
+file.0=D\:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\10000\\instant-run_a626ec935f921a843bac5da3f95528a160e7cdbe\\classes.dex

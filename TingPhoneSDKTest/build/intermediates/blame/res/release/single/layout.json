@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\web_fra.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\web_fra.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\view_notify_dark_play_big.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\view_notify_dark_play_big.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\lay_pay.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\lay_pay.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\fra_view_page.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\fra_view_page.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\download_item.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\download_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\mainlayout.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\mainlayout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\fra_list.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\fra_list.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\act_main.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\act_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\view_notify_play.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\view_notify_play.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\view_notify_play_big.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\view_notify_play_big.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\item_schedule.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\item_schedule.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\album_content.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\album_content.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\activity_auth_demo.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\activity_auth_demo.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\download_album_and_track.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\download_album_and_track.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\live_fragment.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\live_fragment.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\track_content.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\track_content.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\layout\\view_notify_dark_play.xml",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\layout\\view_notify_dark_play.xml"
+    }
+]

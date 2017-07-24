@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_btn_prev_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-hdpi\\notify_btn_prev_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_btn_play_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-hdpi\\notify_btn_play_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\image_default_album_s.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-hdpi\\image_default_album_s.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_default.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-hdpi\\notification_default.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_btn_play2_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-hdpi\\notify_btn_play2_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_btn_next_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-hdpi\\notify_btn_next_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_btn_pause_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-hdpi\\notify_btn_pause_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\TingPhoneSDKTest\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_btn_pause2_pressed.png",
+        "source": "D:\\workspace\\TingPhoneSDKTest\\res\\drawable-hdpi\\notify_btn_pause2_pressed.png"
+    }
+]

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TingPhoneSDKTest\libs\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\transforms\dex\release\folders\1000\2\gson-2.8.0_029f8cd54b8676a0b03db3564a224a99ee0fd85c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\TingPhoneSDKTest\libs\XmDownload_1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5e190eb1be5a1fd3d96e37480106a53f3d61ae6">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\pre-dexed\release\XmDownload_1.5_05a12168e5c02a89d05b9167061e6545aab26d62.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TingPhoneSDKTest\libs\XmDownload_1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5e190eb1be5a1fd3d96e37480106a53f3d61ae6">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\transforms\dex\release\folders\1000\2\XmDownload_1.5_05a12168e5c02a89d05b9167061e6545aab26d62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TingPhoneSDKTest\build\intermediates\incremental-classes\release\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23f81a743280b6b5fef4ee4f6050f4461e6ff291">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\transforms\dex\release\folders\1000\10000\instant-run-bootstrap_f6100836af1d479709f45defd9287ea0e9112f0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\TingPhoneSDKTest\libs\XmlyOAuth2SDK_V1.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4badf78aff0b1ecf543d2f459e96dbea5c9b4e55">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\pre-dexed\release\XmlyOAuth2SDK_V1.0.7_1ea2c7f6c9869e120602f95a9b1f3088f741c973.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TingPhoneSDKTest\libs\XmlyOAuth2SDK_V1.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4badf78aff0b1ecf543d2f459e96dbea5c9b4e55">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\transforms\dex\release\folders\1000\2\XmlyOAuth2SDK_V1.0.7_1ea2c7f6c9869e120602f95a9b1f3088f741c973\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\TingPhoneSDKTest\libs\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\pre-dexed\release\gson-2.8.0_029f8cd54b8676a0b03db3564a224a99ee0fd85c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TingPhoneSDKTest\libs\TingPhoneOpenSDK_5.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="817cfe5c73666f71372f48c509575c3f0755572b">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\transforms\dex\release\folders\1000\2\TingPhoneOpenSDK_5.4.2_21179b6985f8f416ade147e15cdea298999e110c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TingPhoneSDKTest\libs\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\transforms\dex\release\folders\1000\2\okio-1.8.0_8c3f7623358ce3c6fc2aba271a4ce9d6f3b67aba\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\TingPhoneSDKTest\libs\TingPhoneOpenSDK_5.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="817cfe5c73666f71372f48c509575c3f0755572b">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\pre-dexed\release\TingPhoneOpenSDK_5.4.2_21179b6985f8f416ade147e15cdea298999e110c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TingPhoneSDKTest\libs\xutil3.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a525a7f2e266f577629f68820a462a807c66eec7">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\transforms\dex\release\folders\1000\2\xutil3.3.6_25b2affff492e85cc0f46cf97934dca8e1a698de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TingPhoneSDKTest\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91a1b1aabf740a6f64c2f73f5b0dc6611779ac8b">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\transforms\dex\release\folders\1000\2\android-support-v4_db9f925f2bde60aa5cc64530eba7ba0848b37988\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TingPhoneSDKTest\build\intermediates\incremental-runtime-classes\release\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\transforms\dex\release\folders\1000\10000\instant-run_a626ec935f921a843bac5da3f95528a160e7cdbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\TingPhoneSDKTest\libs\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\pre-dexed\release\okio-1.8.0_8c3f7623358ce3c6fc2aba271a4ce9d6f3b67aba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\TingPhoneSDKTest\libs\xutil3.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a525a7f2e266f577629f68820a462a807c66eec7">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\pre-dexed\release\xutil3.3.6_25b2affff492e85cc0f46cf97934dca8e1a698de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\TingPhoneSDKTest\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91a1b1aabf740a6f64c2f73f5b0dc6611779ac8b">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\pre-dexed\release\android-support-v4_db9f925f2bde60aa5cc64530eba7ba0848b37988.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TingPhoneSDKTest\libs\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\transforms\dex\release\folders\1000\2\okhttp-3.3.1_d5d668164766207d561b3a12dd9d571f9ba3581c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\TingPhoneSDKTest\libs\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="D:\workspace\TingPhoneSDKTest\build\intermediates\pre-dexed\release\okhttp-3.3.1_d5d668164766207d561b3a12dd9d571f9ba3581c.jar" />
+    </item>
+
+</items>
